@@ -1,7 +1,7 @@
-# Script V-Code (V1-Websocket)
+# Script RieXGH (V1-Websocket)
  Welcome Dear😊
 
- <h2 align="center">AutoScript VPN By V-Code <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By RieXGH <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -117,15 +117,15 @@ systemctl restart wg-quick@wg0
 
 ## Telegram
 
-[V-Code](https://t.me/Virtual_NW)
+[RieXGH](https://t.me/mintpulut)
 
-[Group V-Code](https://t.me/+HtRm-s0MLBgxODZl)
+[Group RieXGH](https://t.me/)
 
-[Channel V-Code](https://t.me/Virtual_NW_Channel)
+[Channel V-Code](https://t.me/)
 
 ## Credit :
 
-*   V-Code
+*   RieXGH
 
 *   Project X
 
